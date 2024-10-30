@@ -5,8 +5,8 @@ function App() {
         <div className="w-full h-[40%] flex justify-center items-center">
           <div className="w-64 h-64 overflow-hidden rounded-4xl">
             <img
-              src="./src/Megan.jpg"
-              alt=""
+              src="../src/Megan.jpg"
+              alt="ur photo"
               className="rounded-full w-full h-full object-cover"
             />
           </div>
